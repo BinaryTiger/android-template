@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Template</string>
+    <string name="dialog_confirmation_default_title">Confirmation</string>
+    <string name="dialog_confirmation_default_description">Etes-vous certain?</string>
+    <string name="dialog_info_default_title">INFO</string>
+    <string name="dialog_info_default_description">UNE DESCRIPTION A CHANGER</string>
+</resources>
